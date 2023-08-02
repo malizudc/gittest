@@ -8,9 +8,9 @@ this is a project to display a horizontal and vertical menu
 
 ## Demo
 
-![]()
-- [Visit demo page](https://budget-app-003.herokuapp.com/)
-- [Visit live video](https://www.loom.com/share/466b5d0fb90148348b0c54b77b95ae96)
+![](https://github.com/malizudc/gittest/blob/main/images/project.jpeg)
+- [Visit demo page] (https://malizudc.github.io/gittest/)
+
 
 ## Getting Started
 
@@ -32,8 +32,8 @@ you can open with a live server
 
 Contributors names and contact info
 
-ex. charles malizu
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+charles malizu
+
 
 ## Version History
 
@@ -43,10 +43,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
