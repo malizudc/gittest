@@ -1,0 +1,17 @@
+.fit-picture {
+    width: 150px;
+}
+.icons {}
+.vertical-menu{
+    width: 200px;
+}
+.vertical-menu a{
+display: block;
+text-decoration: none; padding: 14px;background-color: rgb(16, 42, 128);color: white;border-right: 2px;border-color: black;border-style: solid;
+}
+.container{
+    float: left;padding: 10px;height: 400px;width: 80%;clear: both;margin-top: -10px;margin-left: -10px;
+}
+.column1 {float: left;margin: 0;width: 15%;}
+.column2 {float: left;margin-left: 16%;width: 40%;}
+
